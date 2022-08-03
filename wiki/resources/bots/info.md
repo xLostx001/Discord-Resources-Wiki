@@ -16,7 +16,7 @@ description: Informaciones y listas de bots
 
 > **Descripción:** Una lista fácil de leer de los 25 mejores bots de Discord por número de servidores.   <br/>
 **Link:** [Github](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0)   <br/>
-**Credit:** @190916650143318016
+**Creditos:** @190916650143318016
 
 ## **Largest Discord Bots (versión extendida)**
 
@@ -40,7 +40,7 @@ description: Informaciones y listas de bots
 
 > **Descripción:** Una lista de todas las bibliotecas de la API de Discord.  <br/>
 **Link:** [Github](https://github.com/apacheli/discord-api-libs)  <br/>
-**Credit:** @460612586061430806
+**Creditos:** @460612586061430806
 
 ### **Library Rest & WS Coverage Comparisons**
 
