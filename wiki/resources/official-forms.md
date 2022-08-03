@@ -9,7 +9,7 @@ description: Formularios oficiales de discord.
 ## **Formulario de informe**
 
 > **Descripción:** Informe un problema al equipo de Confianza y seguridad de Discord. <br/>
-**Enlace:** [Formulario de informe de discordia](https://dis.gd/report)
+**Enlace:** [Formulario de informe de Discord](https://dis.gd/report)
 
 ## **Formulario de soporte**
 
