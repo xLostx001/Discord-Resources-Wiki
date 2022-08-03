@@ -23,7 +23,7 @@ description: Enlaces Oficiales de Discord.
 ## **Errores de Discord**
 
 > **Descripción:** La herramienta oficial para buscar errores informados y aprobados. <br/>
-**Enlace:** [Errores de discordia](https://bugs.discord.com/)
+**Enlace:** [Errores de discord](https://bugs.discord.com/)
 
 ## **Herramienta de errores de probadores de Discord**
 
@@ -54,7 +54,7 @@ description: Enlaces Oficiales de Discord.
 ## **Discord de Código abierto**
 
 > **Descripción:** Esta es la lista de origen de las comunidades OSS que usan y viven en Discord. <br/>
-**Enlaces):**
+**Enlaces:**
 [Código abierto de Discord](https://discord.com/open-source) <br/>
 [Github de código abierto de Discord](https://github.com/discord/discord-open-source)
 
@@ -70,7 +70,7 @@ description: Enlaces Oficiales de Discord.
 > **Descripción:** Información sobre suscripciones a Nitro y Nitro Classic. <br/>
 **Enlace:** [Discord Nitro](https://dis.gd/nitro)
 
-## **Página de estado de discordia**
+## **Página de estado de Discord**
 
 > **Descripción:** Proporciona información sobre el estado actual de los servicios de Discord. <br/>
 **Enlace:** [Página de estado](https://dis.gd/status)
