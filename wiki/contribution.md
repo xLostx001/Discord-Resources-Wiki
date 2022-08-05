@@ -1,8 +1,8 @@
 ---
-title: Contribution
+title: Contribución
 sidebar_position: 3
 slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Una lista de toneladas de útiles recursos y utilidades de Discord para todo tipo de usuarios, desde principiantes hasta usuarios avanzados.
 ---
 
 ```mdx-code-block
@@ -10,53 +10,53 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 ```
 
-# Contribution
+# Contribución
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors below!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+¿Has encontrado un error o una falta de ortografia? ¿Tienes un buen recurso que encaja en esta lista? ¡Convierte en un contribuyente y esté en la gloriosa lista de contribuyentes abajo!<br/>
+Para contribuir, estas mas que bienvenido a hacer un PR la wiki o enviar un MD a @755792681313108018 para editar la wiki y tu mismo en la lista.
+Tambien puedes unirte al [Servidor Oficial del Proyecto](https://discord.gg/yxbqz9pNxS) para contribuir ahi.
 
-## Contributors
+## Contribuyentes
 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@795977947558182954 - Wiki Maintainer <br/>
-@885165099847929887 - <https://dis.wiki/> Redirect Owner <br/>
-@856780995629154305 - Website Maintainer <br/>
-@347727875266576395 - Wiki Architect <br/>
-@391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
-@337654195526303746 - Resources Researcher / Maintainer<br/>
-@337104786593939456 - Documentation Organizer<br/>
-@135877336804360194 - Website Maintainer <br/>
-@485676072176713729 - Resources Researcher / Maintainer<br/>
-@762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
-@287711497118023692 - Resources Researcher / Documentation Organizer<br/>
-@192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentation Organizer<br/>
-@102102717165506560 - Growth Consulting / Resource Curator<br/>
-@755792681313108018 - *I had this idea and did all of the above*  <br/>
-@480495309491798037 - <http://discord.wiki/> Redirect Owner <br/>
-@421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Maker
+¡Este proyecto ha necesitado mas de un par de manos y estamos orgullosos de tener este equipo de contribuyentes que nos han ayudado con este proyecto!<br/>
+Queremos agradecer a:<br/>
+@795977947558182954 - Mantenedor de la Wiki <br/>
+@885165099847929887 - <https://dis.wiki/> Propietario de la Redirección <br/>
+@856780995629154305 - Mantenedor del Sitio Web <br/>
+@347727875266576395 - Arquitecto de la Wiki <br/>
+@391660873409888277 - Fijador de la Wiki <br/>
+@363481883369013259 - Manager de GitHub / Organizador de Documentación<br/>
+@337654195526303746 - Explorador de Recursos / Mantenedor<br/>
+@337104786593939456 - Organizador de Documentación<br/>
+@135877336804360194 - Mantenedor de la Pagina Web <br/>
+@485676072176713729 - Explorador de Recursos / Mantenedor<br/>
+@762387276595724308 - Explorador de Recursos / Mantenedor<br/>
+@378537973215657984 - Manager de Comunidad y Contenido / Organizador de Documentación<br/>
+@287711497118023692 - Explorador de Recursos / Organizador de Documentación<br/>
+@192060404501839872 - Diseñador<br/>
+@386861188891279362 - Arquitecto de la Pagina Web / Organizador de Documentación<br/>
+@102102717165506560 - Consultor de Crecimiento / Curador de Recursos<br/>
+@755792681313108018 - *He tenido la idea y he hecho todo lo de arriba*  <br/>
+@480495309491798037 - <http://discord.wiki/> Propietario de la Redirección <br/>
+@421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Creador
 
-## How to test changes locally
+## Como probar cambios localmente
 
-Got a great PR going but don't know what it looks like? Not a problem!<br/>
+¿Tienes un buen PR pero no sabes como se ve? ¡No hay problema!<br/>
 
-Requirements are:<br/>
+Los requisitos són:<br/>
 Node.js version >= ```16.5.0```<br/>
 
-If you are using Yarn:<br/>
+Si estás usando Yarn:<br/>
 Yarn version >= ```1.22.0```
 
 Fork the GitHub repo and then clone it locally.
 
 ```bash
-git clone https://github.com/yourusername/Discord-Resources-Wiki
+git clone https://github.com/tunombredeusuario/Discord-Resources-Wiki
 ```
 
-Then, open the `Discord-Resources-Wiki` directory and run the following command:
+Despues, abre el directorio de `Discord-Resources-Wiki` y ejecuta el siguiente comando:
   
 ```mdx-code-block
 <Tabs>
@@ -81,23 +81,23 @@ yarn install
 </Tabs>
 ```
 
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
+Esto descargará todos los repositorios requeridos por nuestro sistema de documentación (Docusaurus). Solo neecesita ejecutar esto una sola vez.
 
-To see usernames like on the website, you must create new Discord application and make it as a Bot.
-Follow this [link](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) to create a new application.
+Para ver los nombres de usuario como en la pagina web, debes crear una nueva aplicación de Discord y hacerla un Bot.
+Sigue este [enlace](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) para crear una nueva aplicación.
 
-To get your freshly made bot token, go to your application settings and click on the "Bot" tab.
-Click on the "Token" button and you will see your bot token.
+Para obtener tu nuevo token para el bot, ves a los ajustes de tu aplicación y haz click en el apartado "Bot".
+Haz click en el botón "Token" y verás el token de tu bot.
 
-Now create new file called .env in the root directory and paste the following:
+Ahora crea un nuevo archivo llamado .env en el directorio principal y pega lo siguiente:
 
 ```env
-DISCORD_TOKEN=<tokenhere>
+DISCORD_TOKEN=<tokenaqui>
 ```
 
-Save the file.
+Guarda el archivo.
 
-To test your changes locally, run the following command:
+Para probar tus cambios localmente, ejecuta el siguiente comando:
 
 ```mdx-code-block
 <Tabs>
@@ -121,8 +121,8 @@ yarn start
 </TabItem>
 </Tabs>
 
-This command starts the web server (```localhost:3000``` by default) and must be ran every time you want to start editing.
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
+Este comando inicia el servidor web (```localhost:3000``` por predeterminado) y tiene que ser ejecutado cada vez que quieras empezar a editar.
+Sin embargo, no necesitaser ejecutado para cada cambio que hagas, ya que Docusaurus reiniciará automaticamente  el servidor si detecta cambios.
 
-Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ```<br/>``` for line break characters.
+Una vez tengas una instancia de la pagina web ejecutandose localmente, ¡estas listo para empezar a contribuir!
+Notas: Porfavor usa ```<br/>``` para los caracteres de salto de linea.
