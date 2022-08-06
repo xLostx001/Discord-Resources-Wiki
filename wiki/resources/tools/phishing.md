@@ -1,33 +1,33 @@
 ---
-title: Phishing Related 
+title: Relacionado con el Pishing
 sidebar_position: 4
-description: Phishing and Security tools
+description: Herramientas de phishing y de seguridad
 ---
 
-# Phishing Related
+# Relacionado con el Pishing
 
 ## **Discord Nitro Scams**
 
-> **Description:** This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
-**Link:** [Discord Nitro Information](https://dicsord.gq/)
+> **Descripciòn:** Este sitio web **seguro** (*no es una estafa*) compara los regalos reales de Discord Nitro con las estafas. Cuidado.   <br/>
+**Enlace:** [Discord Nitro Informaciòn](https://dicsord.gq/)
 
 ## **Virus Total**
 
-> **Description:** Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
-**Link:** [Virus Total](https://www.virustotal.com/gui/home/upload)
+> **Descripciòn:** Virus Total analiza archivos y URLs sospechosas para detectar tipos de malware.   <br/>
+**Enlace:** [Virus Total](https://www.virustotal.com/gui/home/upload)
 
 ## **CleanURLs**
 
-> **Description:** ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
-**Link(s):**  <br/>
+> **Descripciòn:** ClearURLs es un complemento basado en la nueva tecnología de WebExtensions y eliminará automáticamente los elementos de seguimiento de las URL para ayudar a proteger su privacidad.  <br/>
+**Enlaces:**  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-**Credit:** @github:KevinRoebert
+[Documentaciòn](https://docs.clearurls.xyz/latest/)  <br/>
+**Creditos:** @github: KevinRoebert
 
 ## **Gits of Scam Links**
 
-> **Description:** GitHub repositories full of scam links.   <br/>
-**Link(s):**  
+> **Descripciòn:** Repositorios de GitHub llenos de enlaces de estafa.   <br/>
+**Enlaces:**  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
 [malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
 [ZeroTwo Bot List](https://github.com/ZeroTwo-Bot/anti-fish-lists/)   <br/>
@@ -38,13 +38,13 @@ description: Phishing and Security tools
 
 ## **Database full of malicious links**
 
-> **Description:** Self explanatory. 🔢   <br/>
-**Link:** [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
+> **Descripciòn:** Se explica por sí mismo. 🔢   <br/>
+**Enlace:** [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
 
 ## **Phishing Recognizing Tools**
 
-> **Description:** Many tools to help you recognize phishing and compromised sites.  <br/>
-**Link(s):** <br/>
+> **Descripciòn:** Muchas herramientas para ayudarle a reconocer sitios de phishing y comprometidos.  <br/>
+**Enlaces:** <br/>
 [Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
 [AbuseIPDB](https://www.abuseipdb.com/)  <br/>
 [BrightCloud URL Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)  <br/>
@@ -60,37 +60,37 @@ description: Phishing and Security tools
 
 ## Phishing APIs
 
-> **Description:** These are APIs and tools to handle phishing attempts.   <br/>
-**Link(s):** <br/>
+> **Descripciòn:** Se trata de APIs y herramientas para gestionar los intentos de phishing.   <br/>
+**Enlaces:** <br/>
 [Got Phish](http://gotphish.com/)   <br/>
-[Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
+[Hyperphish](https://api.hyperphish.com/docs) (creditos: @297045071457681409)   <br/>
 [Phish Report](https://phish.report/)   <br/>
-[SinkingYachts](https://phish.sinking.yachts/docs) (credit: @204414611578028034)  <br/>
-[Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: @218508002255306752)   <br/>
-[Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
+[SinkingYachts](https://phish.sinking.yachts/docs) (creditos: @204414611578028034)  <br/>
+[Anti - Fish API](https://anti-fish.bitflow.dev/) (creditos: @218508002255306752)   <br/>
+[Spoopy Detector](https://spoopy.oceanlord.me/) (creditos: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
 [Blacklisted Domains](https://api.hyperphish.com/gimme-domains) <br/>
 [Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
 [ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner)  <br/>
-[Azrael Phish API](https://phish.azrael.gg/) (credit: @641795527444529152)  <br/>
+[Azrael Phish API](https://phish.azrael.gg/) (creditos: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
 ## **Phisherman**
 
-> **Description:**   <br/>
-Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
-**Link(s):**   <br/>
-[Phisherman Website](https://phisherman.gg/)   <br/>
-[PhishermanDocs](https://docs.phisherman.gg/)
+> **Descripciòn:**   <br/>
+Phisherman es una base de datos centralizada de enlaces de phishing y estafa. Está diseñada para su uso con los bots de Discord, permitiéndoles utilizar la API de Phisherman para cruzar las URLs con la base de datos de Phisherman.   <br/>
+**Enlaces:**   <br/>
+[Phisherman](https://phisherman.gg/)   <br/>
+[Documentaciòn](https://docs.phisherman.gg/)
 
 ## **The Vaccinator**
 
-> **Description:** A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
-**Note:** This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
-**Link:** [Website](https://sketchy.tel/)  <br/>
-**Credit:** The Vaccinator Team (contact: @204414611578028034)
+> **Descripciòn:** Una herramienta para detectar y neutralizar a los ladrones de tokens de Discord borrando su webhook interno de Discord. <br/>
+**Nota:** Esta herramienta **no** es un antivirus. Es sólo una utilidad que puede ayudar a evitar que los estafadores obtengan los datos de otras personas. <br/>
+**Enlace:** [Pagina web](https://sketchy.tel/)  <br/>
+**Creditos:** The Vaccinator Team (Contacto @204414611578028034)
 
 ## **Intezer Analyse**
 
-> **Description:** Advanced security researching tool to help determine if a file is malicious and much more. (Not entirely free) <br/>
-**Link:** [Intezer Analyse](https://analyze.intezer.com/)
+> **Descripciòn:** Herramienta avanzada de investigación de seguridad para ayudar a determinar si un archivo es malicioso y mucho más. (No es totalmente gratuito) <br/>
+**Enlace:** [Intezer Analyse](https://analyze.intezer.com/)
