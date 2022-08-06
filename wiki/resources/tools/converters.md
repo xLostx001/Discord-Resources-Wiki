@@ -1,130 +1,130 @@
 ---
-title: Converters
+title: Convertidores
 sidebar_position: 6
-description: Converter tools
+description: Herramientas para Convertir
 ---
 
-# Converters
+# Convertidores
 
-## Timestamp Converters
+## Convertidores de marcas de tiempo
 
-### **HammerTime**
+### **Hora del martillo**
 
-> **Description:** Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
-The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
-**Link:** [HammerTime](https://hammertime.djdavid98.art/)   <br/>
-**Credit:** @140360880079503362
+> **Descripción:** Elija una fecha, copie la marca de tiempo deseada de la columna Sintaxis de chat y luego péguela en cualquier lugar de un mensaje de chat. <br/>
+El resultado será una marca de tiempo dinámica que se muestra de manera diferente para todos según su propia zona horaria. <br/>
+**Enlace:** [HammerTime](https://hammertime.djdavid98.art/) <br/>
+**Créditos:** @140360880079503362
 
-### **Snow-Stamp (Snowflake to Timestamp Converter)**
+### **Snow-Stamp (Convertidor de SnowFlake a Timestamp)**
 
-> **Description:** Converts a user’s snowflake into the timestamp the account was created.   <br/>
-**Link:** [Snow-Stamp](https://snowsta.mp/)   <br/>
-**Credit:** @86913608335773696
+> **Descripción:** Convierte el SnowFlake de un usuario en la marca de tiempo en que se creó la cuenta. <br/>
+**Enlace:** [Snow-Stamp](https://snowsta.mp/) <br/>
+**Créditos:** @86913608335773696
 
-### **DateTimeCord**
+### **Cable de fecha y hora**
 
-> **Description:** A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
-**Link:** [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
-**Credit:** @172557961133162496
+> **Descripción:** Un sitio web útil para generar Markdown de formato de fecha y hora para discordia. Admite todas las opciones de formato que tiene Discord, además de mostrar una vista previa de cómo se vería en Discord. <br/>
+**Enlace:** [DateTimeCord](https://datetimecord.rauf.wtf/) <br/>
+**Créditos:** @172557961133162496
 
-### **Alfred time converters plugins**
+### **Complementos de conversión de tiempo de Alfred**
 
-> **Description:** Alfred plugins to convert time to timestamps and vice versa.   <br/>
-**Link(s):**   <br/>
-[Alfred-Whencord](https://github.com/HilbertGilbertson/alfred-whencord)   <br/>
-[Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord)   <br/>
-**Credit:** @213023662066892800
+> **Descripción:** Complementos de Alfred para convertir el tiempo en marcas de tiempo y viceversa. <br/>
+**Enlaces:** <br/>
+[Alfred-Whencord](https://github.com/HilbertGilbertson/alfred-whencord) <br/>
+[Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord) <br/>
+**Créditos:** @213023662066892800
 
-### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
+### **Convertidor de Epoch (herramientas de conversión de marca de tiempo de Epoch y Unix)**
 
-> **Description:** Converts a given time into a Unix timestamp.   <br/>
-**Link:** [Epoch Converter](https://www.epochconverter.com/)
+> **Descripción:** Convierte un tiempo dado en una marca de tiempo Unix. <br/>
+**Enlace:** [Convertidor de época](https://www.epochconverter.com/)
 
-### **Unix Timestamps Decoder**
+### **Descodificador de marcas de tiempo de Unix**
 
-> **Description:** Decodes a Unix timestamp into a standard MM/DD/YYYY format.   <br/>
-**Link:** [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
+> **Descripción:** Decodifica una marca de tiempo Unix en un formato estándar MM/DD/YYYY. <br/>
+**Enlace:** [Descodificador de marca de tiempo de Unix](https://www.unixtimestamp.com/)
 
-## File Converters
+## Convertidores de archivos
 
 ### **EzGif**
 
-> **Description:** EzGif is An online tool full with media-related utilities.  <br/>
-**Link:** [EzGif](https://ezgif.com)
+> **Descripción:** EzGif es una herramienta en línea repleta de utilidades relacionadas con los medios. <br/>
+**Enlace:** [EzGif](https://ezgif.com)
 
-### **Text Formatting Tools**
+### **Herramientas de formato de texto**
 
-> **Description:** A website for converting various text formats.   <br/>
-**Link:** [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
+> **Descripción:** Un sitio web para convertir varios formatos de texto. <br/>
+**Enlace:** [Herramientas de formato de texto](http://www.unit-conversion.info/texttools/)
 
-### **Discord Txt**
+### **Texto de discord**
 
-> **Description:** Used to view .txt files that have been uploaded to Discord.   <br/>
-**Link:** [Discord Txt](https://txt.discord.website/)
+> **Descripción:** Se utiliza para ver archivos .txt que se han subido a Discord. <br/>
+**Enlace:** [Discord Txt](https://txt.discord.website/)
 
-### **File Converter**
+### **Convertidor de archivos**
 
-> **Description:** Convert file types to others.   <br/>
-**Link:** [File Converter](https://github.com/Tichau/FileConverter)   <br/>
-**Credit:** @Tichau
+> **Descripción:** Convierte tipos de archivos a otros. <br/>
+**Enlace:** [Convertidor de archivos](https://github.com/Tichau/FileConverter) <br/>
+**Créditos:** @Tichau
 
-### **Color Replacer**
+### **Reemplazo de color**
 
-> **Description:** Replace a specfic colour of an image.  <br/>
-**Link:** [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
+> **Descripción:** Reemplaza un color específico de una imagen. <br/>
+**Enlace:** [Reemplazo de color](https://www2.lunapic.com/editor/?action=replace-color)
 
-### **SVG Converters**
+### **Convertidores SVG**
 
-> **Description:** High quality SVG converter.  <br/>
-**Link:** [SVG Converters](https://picsvg.com/)
+> **Descripción:** Convertidor SVG de alta calidad. <br/>
+**Enlace:** [Conversores SVG](https://picsvg.com/)
 
-### **SVG Viewer**
+### **Visor SVG**
 
-> **Description:** View SVG files.   <br/>
-**Link:** [SVG Viewer](https://www.svgviewer.dev/)
+> **Descripción:** Ver archivos SVG. <br/>
+**Enlace:** [Visor SVG](https://www.svgviewer.dev/)
 
-### **Youtube Downloader**
+### **Descargador de youtube**
 
-> **Description:** Download a Youtube video as a file using its URL (either audio only or video). <br/>
-**Link:** [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
-**Credit:** @141065743197405184
+> **Descripción:** Descargue un video de Youtube como un archivo usando su URL (ya sea solo audio o video). <br/>
+**Enlace:** [Descargador de Youtube](http://youtube.tpcstld.me/) <br/>
+**Créditos:** @141065743197405184
 
-### **Lottie Image Resizer**
+### **Redimensionador de imágenes de Lottie**
 
-> **Description:** Lottie image resize so you can get your Lottie files ≤320px.   <br/>
-**Link:** [Lottie Image Resizer](https://lottieresizer.tech/)
+> **Descripción:** Cambia el tamaño de la imagen de Lottie para que puedas obtener tus archivos de Lottie ≤320px. <br/>
+**Enlace:** [Lottie Image Resizer](https://lottieresizer.tech/)
 
-### **.gif to .apng**
+### **.gif a .apng**
 
-> **Description:** Converts .gif files to .apng files.   <br/>
-**Link:** [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
+> **Descripción:** Convierte archivos .gif a archivos .apng. <br/>
+**Enlace:** [.gif a .apng](https://www.freeconvert.com/convert/gif-to-apng)
 
-### **HTML Color Codes**
+### **Códigos de color HTML**
 
-> **Description:** A site that converts a color into hex code and vice versa.   <br/>
-**Link:** [HTML Color Codes](https://htmlcolorcodes.com/)
+> **Descripción:** Un sitio que convierte un color en código hexadecimal y viceversa. <br/>
+**Enlace:** [Códigos de colores HTML](https://htmlcolorcodes.com/)
 
-### **Image Color Picker**
+### **Selector de color de imagen**
 
-> **Description:** Upload an image and get a specific hex code for a color in the picture.   <br/>
-**Link:** [Image Color Picker](https://imagecolorpicker.com/)
+> **Descripción:** Cargue una imagen y obtenga un código hexadecimal específico para un color en la imagen. <br/>
+**Enlace:** [Selector de color de imagen](https://imagecolorpicker.com/)
 
-### **Removebg**
+### **Eliminar .bg**
 
- > **Description:** Remove any background from an image.   <br/>
- **Link:** [Removebg](https://www.remove.bg/upload)
+ > **Descripción:** Elimina cualquier fondo de una imagen. <br/>
+ **Enlace:** [Removebg](https://www.remove.bg/upload)
 
-### **Erase.bg**
+### **Borrar .bg**
 
-> **Description:** Remove background from images of humans, animals or objects and download high-resolution images for free.   <br/>
-**Link:** [Erase.bg](https://www.erase.bg/)
+> **Descripción:** Elimina el fondo de las imágenes de humanos, animales u objetos y descarga imágenes de alta resolución de forma gratuita. <br/>
+**Enlace:** [Borrar.bg](https://www.erase.bg/)
 
-### **Cleanup.pictures**
+### **Limpieza de Imágenes**
 
-> **Description:** Remove any object, people, text or defects from your pictures.   <br/>
-**Link:** [Cleanup.pictures](https://cleanup.pictures/)
+> **Descripción:** Elimina cualquier objeto, persona, texto o defecto de tus imágenes. <br/>
+**Enlace:** [Limpieza de Imágenes](https://cleanup.pictures/)
 
-### **Video Compressor**
+### **Compresor de vídeo**
 
-> **Description:** A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
-**Link:** [Video Compressor](https://8mb.video/)
+> **Descripción:** Un compresor de video diseñado para comprimir tus videos al tamaño perfecto para subirlos a Discord. Viene con tres opciones que son 8 MB, 50 MB y 100 MB, que se ajustan a varias restricciones de carga. <br/>
+**Enlace:** [Compresor de video](https://8mb.video/)
