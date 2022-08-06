@@ -39,6 +39,7 @@ Queremos agradecer a:<br/>
 @755792681313108018 - *He tenido la idea y he hecho todo lo de arriba*  <br/>
 @480495309491798037 - <http://discord.wiki/> Propietario de la Redirección <br/>
 @421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Creador
+@438390132538605589 - Traductor Español
 
 ## Como probar cambios localmente
 
