@@ -1,31 +1,31 @@
 ---
-title: Official Discord Files
+title: Archivos oficiales de Discord
 sidebar_position: 5
-description: Official files from discord.
+description: Archivos oficiales de Discord.
 ---
 
-# Official Discord Documents
+# Documentos oficiales de Discord
 
-## Presentations
+## Presentaciones
 
-### **Server Audits**
+### **Auditorías de servidor**
 
-> **Description:** A Discord presentation and audio regarding server audits.  <br/>
-**Links:** <br/>
-[Slides Presentation](https://docs.google.com/presentation/d/18QQyl0WhTOdYt0F0mBPQf2AusBPF7HqP8e39zjEwKsc/edit#slide=id.g130c86c984d_0_12)  <br/>
-[Audio Presentation](https://cdn.discordapp.com/attachments/960960145800704030/982392876254232667/DAC_AuditingYourServer_ExperimentalContent.mp3)
+> **Descripción:** Una presentación y audio de Discord con respecto a las auditorías del servidor.  <br/>
+**Enlaces:** <br/>
+[Presentación de diapositivas](https://docs.google.com/presentation/d/18QQyl0WhTOdYt0F0mBPQf2AusBPF7HqP8e39zjEwKsc/edit#slide=id.g130c86c984d_0_12)  <br/>
+[Presentación de audio](https://cdn.discordapp.com/attachments/960960145800704030/982392876254232667/DAC_AuditingYourServer_ExperimentalContent.mp3)
 
-### **All-Things Accessibility**
-> **Description:** A Discord interview (audio and transcript) about accessibility with a Discord employee from the accessbility team.  <br/>
-**Link(s):** <br/>
+### **Accesibilidad de todas las cosas**
+> **Descripción:** Una entrevista de Discord (audio y transcripción) sobre accesibilidad con un empleado de Discord del equipo de accesibilidad.  <br/>
+**Enlaces:** <br/>
 [Audio](https://dis.gd/RadioDiscord_Accessibility )  <br/>
-[Transcript](https://dis.gd/RadioDiscordAccessibilityTranscript)
+[Transcripción](https://dis.gd/RadioDiscordAccessibilityTranscript)
 
 ### **Discussing The Forums Feature**
-> **Description:** The Discord community team talks about a new feature in testing: forums.  <br/>
-**Links:** <br/>
+> **Description:** El equipo de la comunidad de Discord habla de una nueva función en pruebas: los foros.  <br/>
+**Enlaces:** <br/>
 [Audio](https://dis.gd/Radio-Discord-Forums-Beta)  <br/>
 [Transcript](https://dis.gd/Radio-Discord-Forums-Beta-Transcript)
 
 
-### 🚧 under construction...
+### 🚧 Bajo construcción...
